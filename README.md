@@ -1,13 +1,11 @@
-# Initially a fork from the awesome electron project. 
+> Initially a fork from the awesome electron project. 
 
 [![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
-
-
 
 > The goal is to build o top of it an innovative Electronic Health Recording (EHR) data visualization and inho sharing for Helth Care Professionals.
 
 
-
+------------------
 
 ## License
 
