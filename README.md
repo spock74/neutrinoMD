@@ -2,7 +2,13 @@
 
 [![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
 
-## The goal is to build o top of it an innovative concept on Electronic Health Recording (EHR), data visualization sharing between Helth Professionals.
+
+------\
+
+# The goal is to build o top of it an innovative concept on Electronic Health Recording (EHR), data visualization sharing between Helth Professionals.
+
+
+
 
 ## License
 
