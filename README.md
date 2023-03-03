@@ -1,4 +1,8 @@
+# Initially a fork from the awsome electron project. 
+
 [![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
+
+## An innovative concept on Electronic Health Recording (EHR), data visualization and data sharing of  between Helth Professionals is the goal.
 
 [![CircleCI Build Status](https://circleci.com/gh/electron/electron/tree/main.svg?style=shield)](https://circleci.com/gh/electron/electron/tree/main)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/4lggi9dpjc1qob7k/branch/main?svg=true)](https://ci.appveyor.com/project/electron-bot/electron-ljo26/branch/main)
